@@ -14,7 +14,7 @@
 - Mimicking like Human brain to see through patterns but robust and free from Confirmation bias.
 - Solution : A deep learning model
 - To make it available for ease : An Android and Web app.
-- Our deep learning model computes the probability of happening of a disease from the given symptoms and orders them according   to their probability and in future creating a Reinforcement learning which in takes a feedback from the doctor, and learns 
+- Our deep learning model computes the probability of happening of a disease from the given symptoms and orders them according   to their probability and in future creating a Reinforcement learning which in takes a feedback from the doctor, and learns     <br />
 ![](Graph.gif)<br />
 
 ## Screen Shots

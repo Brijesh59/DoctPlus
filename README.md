@@ -8,7 +8,7 @@
      - 80,000 deaths from Infection
      - 106,000 deaths from adverse effect of medication 
   - Which in total gives 225000 deaths per year single handedly only by misdiagnosis.
-### THEREFORE, It's a big agenda , a curb suffocating the society
+#### THEREFORE, It's a big agenda , a curb suffocating the society
 
 ## Our Approach and Solution
 - Mimicking like Human brain to see through patterns but robust and free from Confirmation bias.
